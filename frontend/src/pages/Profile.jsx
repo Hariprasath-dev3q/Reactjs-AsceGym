@@ -37,7 +37,7 @@ const Profile = () => {
             handleLogout();
         }
         catch (err) {
-            
+
             console.log(err);
         }
 
